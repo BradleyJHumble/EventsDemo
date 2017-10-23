@@ -1,2 +1,2 @@
-# Smile
-An mobile app that connects photographers with users. 
+#EventsDemo
+An mobile application that fetches and display data from EventBrite Api
